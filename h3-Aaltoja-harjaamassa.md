@@ -7,13 +7,14 @@
 
 __Hubacek 2019:__
 
-
-
-
+- Videossa käytiin läpi mitä kaikkea Universal Radio Hackerillä voi tehdä.
+- Siinä tehtiin käytännön testi, siepattiin signaali ja nähtiin se URH:ssa.
 
 __Cornelius 2022:__
 
-
+- rtl_433 tunnisti anturin heti nimellä “Nexus-TH” ja purki lämpötilan ja kosteuden.
+- Viesti on 36 bittiä, jotka anturi lähettää toistona 10 kertaa.
+- Protokolla on tarpeeksi yksinkertainen, jotta anturin voi emuloida Arduinolla ja 433 MHz:n lähettimellä
 
 
 
